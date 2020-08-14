@@ -1,0 +1,1094 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 256302,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 95359,
+      "max": [
+        7.87271738052368,
+        94.5412673950195,
+        52.9458084106445
+      ],
+      "min": [
+        -11.9539566040039,
+        -94.5473937988281,
+        6.79235076904297
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 95359,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 95359,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5125,
+      "count": 6090,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 1219,
+      "max": [
+        17.8014297485352,
+        -0.61109060049057,
+        92.9841918945312
+      ],
+      "min": [
+        -17.8014297485352,
+        -78.2006454467773,
+        66.0486907958984
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 1219,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 1219,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5125,
+      "count": 15792,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 4478,
+      "max": [
+        19.3290615081787,
+        82.9994277954102,
+        86.7573928833008
+      ],
+      "min": [
+        -19.3290557861328,
+        -66.5319290161133,
+        36.5365676879883
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 4478,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5126,
+      "count": 4478,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5125,
+      "count": 131232,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5126,
+      "count": 32750,
+      "max": [
+        8.9429235458374,
+        101.556678771973,
+        60.7747993469238
+      ],
+      "min": [
+        -8.94291496276855,
+        -102.376365661621,
+        -0.223056793212891
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 14,
+      "componentType": 5126,
+      "count": 32750,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 15,
+      "componentType": 5126,
+      "count": 32750,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 16,
+      "componentType": 5125,
+      "count": 18576,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 17,
+      "componentType": 5126,
+      "count": 4172,
+      "max": [
+        22.9480876922607,
+        39.0951309204102,
+        101.011161804199
+      ],
+      "min": [
+        -22.9480895996094,
+        -13.2946529388428,
+        68.1314086914062
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 18,
+      "componentType": 5126,
+      "count": 4172,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 19,
+      "componentType": 5126,
+      "count": 4172,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 20,
+      "componentType": 5125,
+      "count": 95448,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 21,
+      "componentType": 5126,
+      "count": 27982,
+      "max": [
+        19.4209861755371,
+        62.1649856567383,
+        108.26188659668
+      ],
+      "min": [
+        -19.4209880828857,
+        -83.0274353027344,
+        68.5237503051758
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 22,
+      "componentType": 5126,
+      "count": 27982,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 23,
+      "componentType": 5126,
+      "count": 27982,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 24,
+      "componentType": 5125,
+      "count": 1067871,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 25,
+      "componentType": 5126,
+      "count": 327710,
+      "max": [
+        37.6212005615234,
+        75.0434494018555,
+        112.152679443359
+      ],
+      "min": [
+        -37.6213150024414,
+        -84.3682174682617,
+        13.4596557617188
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 26,
+      "componentType": 5126,
+      "count": 327710,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 27,
+      "componentType": 5126,
+      "count": 327710,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 28,
+      "componentType": 5125,
+      "count": 6048,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 29,
+      "componentType": 5126,
+      "count": 1658,
+      "max": [
+        19.4209861755371,
+        63.1001281738281,
+        99.9232406616211
+      ],
+      "min": [
+        -19.4209899902344,
+        -84.6173858642578,
+        75.7437286376953
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 30,
+      "componentType": 5126,
+      "count": 1658,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 31,
+      "componentType": 5126,
+      "count": 1658,
+      "type": "VEC2"
+    }
+  ],
+  "asset": {
+    "generator": "Substance Painter 6.1.3",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1025208,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1144308,
+      "byteOffset": 1025208,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1144308,
+      "byteOffset": 2169516,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 762872,
+      "byteOffset": 3313824,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24360,
+      "byteOffset": 4076696,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 14628,
+      "byteOffset": 4101056,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 14628,
+      "byteOffset": 4115684,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 9752,
+      "byteOffset": 4130312,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 63168,
+      "byteOffset": 4140064,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 53736,
+      "byteOffset": 4203232,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 53736,
+      "byteOffset": 4256968,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 35824,
+      "byteOffset": 4310704,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 524928,
+      "byteOffset": 4346528,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 393000,
+      "byteOffset": 4871456,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 393000,
+      "byteOffset": 5264456,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 262000,
+      "byteOffset": 5657456,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 74304,
+      "byteOffset": 5919456,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 50064,
+      "byteOffset": 5993760,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 50064,
+      "byteOffset": 6043824,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 33376,
+      "byteOffset": 6093888,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 381792,
+      "byteOffset": 6127264,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 335784,
+      "byteOffset": 6509056,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 335784,
+      "byteOffset": 6844840,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 223856,
+      "byteOffset": 7180624,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4271484,
+      "byteOffset": 7404480,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3932520,
+      "byteOffset": 11675964,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3932520,
+      "byteOffset": 15608484,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2621680,
+      "byteOffset": 19541004,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24192,
+      "byteOffset": 22162684,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 19896,
+      "byteOffset": 22186876,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 19896,
+      "byteOffset": 22206772,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13264,
+      "byteOffset": 22226668,
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 22239932,
+      "uri": "Bike_04.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "Bike_lights_baseColor.png"
+    },
+    {
+      "uri": "Bike_lights_occlusionRoughnessMetallic.png"
+    },
+    {
+      "uri": "Bike_lights_normal.png"
+    },
+    {
+      "uri": "Bike_lights_emissive.png"
+    },
+    {
+      "uri": "Bike_main_baseColor.png"
+    },
+    {
+      "uri": "Bike_main_occlusionRoughnessMetallic.png"
+    },
+    {
+      "uri": "Bike_main_normal.png"
+    },
+    {
+      "uri": "Bike_wheels_baseColor.png"
+    },
+    {
+      "uri": "Bike_wheels_occlusionRoughnessMetallic.png"
+    },
+    {
+      "uri": "Bike_wheels_normal.png"
+    },
+    {
+      "uri": "Colored_plastic_baseColor.png"
+    },
+    {
+      "uri": "Colored_plastic_occlusionRoughnessMetallic.png"
+    },
+    {
+      "uri": "Colored_plastic_normal.png"
+    },
+    {
+      "uri": "Colored_seat_baseColor.png"
+    },
+    {
+      "uri": "Colored_seat_occlusionRoughnessMetallic.png"
+    },
+    {
+      "uri": "Colored_seat_normal.png"
+    },
+    {
+      "uri": "Fuel_tank_baseColor.png"
+    },
+    {
+      "uri": "Fuel_tank_occlusionRoughnessMetallic.png"
+    },
+    {
+      "uri": "Fuel_tank_normal.png"
+    },
+    {
+      "uri": "Glass_baseColor.png"
+    },
+    {
+      "uri": "Glass_occlusionRoughnessMetallic.png"
+    },
+    {
+      "uri": "Glass_normal.png"
+    },
+    {
+      "uri": "Tires_baseColor.png"
+    },
+    {
+      "uri": "Tires_occlusionRoughnessMetallic.png"
+    },
+    {
+      "uri": "Tires_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "OPAQUE",
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 3
+      },
+      "name": "Bike_lights",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "alphaMode": "OPAQUE",
+      "name": "Bike_main",
+      "normalTexture": {
+        "index": 6
+      },
+      "occlusionTexture": {
+        "index": 5
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicRoughnessTexture": {
+          "index": 5
+        }
+      }
+    },
+    {
+      "alphaMode": "OPAQUE",
+      "name": "Bike_wheels",
+      "normalTexture": {
+        "index": 9
+      },
+      "occlusionTexture": {
+        "index": 8
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 7
+        },
+        "metallicRoughnessTexture": {
+          "index": 8
+        }
+      }
+    },
+    {
+      "alphaMode": "OPAQUE",
+      "name": "Colored_plastic",
+      "normalTexture": {
+        "index": 12
+      },
+      "occlusionTexture": {
+        "index": 11
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 10
+        },
+        "metallicRoughnessTexture": {
+          "index": 11
+        }
+      }
+    },
+    {
+      "alphaMode": "OPAQUE",
+      "name": "Colored_seat",
+      "normalTexture": {
+        "index": 15
+      },
+      "occlusionTexture": {
+        "index": 14
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 13
+        },
+        "metallicRoughnessTexture": {
+          "index": 14
+        }
+      }
+    },
+    {
+      "alphaMode": "OPAQUE",
+      "name": "Fuel_tank",
+      "normalTexture": {
+        "index": 18
+      },
+      "occlusionTexture": {
+        "index": 17
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 16
+        },
+        "metallicRoughnessTexture": {
+          "index": 17
+        }
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "name": "Glass",
+      "normalTexture": {
+        "index": 21
+      },
+      "occlusionTexture": {
+        "index": 20
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 19
+        },
+        "metallicRoughnessTexture": {
+          "index": 20
+        }
+      }
+    },
+    {
+      "alphaMode": "OPAQUE",
+      "name": "Tires",
+      "normalTexture": {
+        "index": 24
+      },
+      "occlusionTexture": {
+        "index": 23
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 22
+        },
+        "metallicRoughnessTexture": {
+          "index": 23
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Bike_wheels",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 2,
+            "POSITION": 1,
+            "TEXCOORD_0": 3
+          },
+          "indices": 0,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Colored_seat",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TEXCOORD_0": 7
+          },
+          "indices": 4,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Colored_plastic",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9,
+            "TEXCOORD_0": 11
+          },
+          "indices": 8,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Tires",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 14,
+            "POSITION": 13,
+            "TEXCOORD_0": 15
+          },
+          "indices": 12,
+          "material": 7,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Fuel_tank",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 18,
+            "POSITION": 17,
+            "TEXCOORD_0": 19
+          },
+          "indices": 16,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Bike_lights",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 22,
+            "POSITION": 21,
+            "TEXCOORD_0": 23
+          },
+          "indices": 20,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Bike_Main",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 26,
+            "POSITION": 25,
+            "TEXCOORD_0": 27
+          },
+          "indices": 24,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Glass",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 30,
+            "POSITION": 29,
+            "TEXCOORD_0": 31
+          },
+          "indices": 28,
+          "material": 6,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1,
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "Bike_wheels",
+      "rotation": [
+        -0.70710676908493,
+        0.0,
+        0.0,
+        0.70710676908493
+      ]
+    },
+    {
+      "mesh": 0,
+      "name": "Bike_wheels"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "Colored_seat",
+      "rotation": [
+        -0.70710676908493,
+        0.0,
+        0.0,
+        0.70710676908493
+      ]
+    },
+    {
+      "mesh": 1,
+      "name": "Colored_seat"
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "Colored_plastic",
+      "rotation": [
+        -0.70710676908493,
+        0.0,
+        0.0,
+        0.70710676908493
+      ]
+    },
+    {
+      "mesh": 2,
+      "name": "Colored_plastic"
+    },
+    {
+      "children": [
+        8
+      ],
+      "name": "Tires",
+      "rotation": [
+        -0.70710676908493,
+        0.0,
+        0.0,
+        0.70710676908493
+      ]
+    },
+    {
+      "mesh": 3,
+      "name": "Tires"
+    },
+    {
+      "children": [
+        10
+      ],
+      "name": "Fuel_tank",
+      "rotation": [
+        -0.70710676908493,
+        0.0,
+        0.0,
+        0.70710676908493
+      ]
+    },
+    {
+      "mesh": 4,
+      "name": "Fuel_tank"
+    },
+    {
+      "children": [
+        12
+      ],
+      "name": "Bike_lights",
+      "rotation": [
+        -0.70710676908493,
+        0.0,
+        0.0,
+        0.70710676908493
+      ]
+    },
+    {
+      "mesh": 5,
+      "name": "Bike_lights"
+    },
+    {
+      "children": [
+        14
+      ],
+      "name": "Bike_Main",
+      "rotation": [
+        -0.70710676908493,
+        0.0,
+        0.0,
+        0.70710676908493
+      ]
+    },
+    {
+      "mesh": 6,
+      "name": "Bike_Main"
+    },
+    {
+      "children": [
+        16
+      ],
+      "name": "Glass",
+      "rotation": [
+        -0.70710676908493,
+        0.0,
+        0.0,
+        0.70710676908493
+      ]
+    },
+    {
+      "mesh": 7,
+      "name": "Glass"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9985,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "sampler": 0,
+      "source": 7
+    },
+    {
+      "sampler": 0,
+      "source": 8
+    },
+    {
+      "sampler": 0,
+      "source": 9
+    },
+    {
+      "sampler": 0,
+      "source": 10
+    },
+    {
+      "sampler": 0,
+      "source": 11
+    },
+    {
+      "sampler": 0,
+      "source": 12
+    },
+    {
+      "sampler": 0,
+      "source": 13
+    },
+    {
+      "sampler": 0,
+      "source": 14
+    },
+    {
+      "sampler": 0,
+      "source": 15
+    },
+    {
+      "sampler": 0,
+      "source": 16
+    },
+    {
+      "sampler": 0,
+      "source": 17
+    },
+    {
+      "sampler": 0,
+      "source": 18
+    },
+    {
+      "sampler": 0,
+      "source": 19
+    },
+    {
+      "sampler": 0,
+      "source": 20
+    },
+    {
+      "sampler": 0,
+      "source": 21
+    },
+    {
+      "sampler": 0,
+      "source": 22
+    },
+    {
+      "sampler": 0,
+      "source": 23
+    },
+    {
+      "sampler": 0,
+      "source": 24
+    }
+  ]
+}
