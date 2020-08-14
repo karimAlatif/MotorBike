@@ -49,6 +49,7 @@ export default class LoaderManager {
             }
         }
         
+        
         assetsManager.onProgress = (remainingCount, totalCount, lastFinishedTask) => {
             this.game.engine.loadingUIText = 'loading Assets ' + remainingCount + ' out of ' + totalCount + ' items still need to be loaded.';
         };
