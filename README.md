@@ -1,16 +1,5 @@
 
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-
-Hello jatin 
-
-my mobile number for urgent case
-+02 0111 280 7901
-please send msg on what's app 
-wating for it !!
-
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
